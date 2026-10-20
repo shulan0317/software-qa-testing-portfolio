@@ -29,3 +29,5 @@ jobs:
         name: playwright-report
         path: automation/playwright-report/
         retention-days: 30
+
+# Playwright CI workflow
